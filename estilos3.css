@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(28, 8, 77);
+}
+
+main {
+    color: cornsilk;
+}
+
+
+.Titulo,
+.Subtitulo {
+
+    text-align: center;
+
+}
+
+.lista {
+
+    text-align: center;
+
+}
+
+.Parrafosecundario {
+    text-align: center;
+}
